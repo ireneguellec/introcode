@@ -1,0 +1,36 @@
+/* style.css */
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+  font-family: 'Ubuntu', sans-serif;
+}
+nav {
+  font-size :1em;
+  font-family: 'Ubuntu', sans-serif;
+  width: 200px;
+}
+nav: hover {
+  font-size : 1em;
+  font-family: 'Ubuntu', sans-serif;
+  background: #2f7950;
+}
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: #2f7950;
+  font-weight: bolder;
+  font-size: 2em;
+}
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
