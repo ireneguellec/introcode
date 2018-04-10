@@ -21,6 +21,10 @@ h1{
   font-weight: bolder;
   font-size: 2em;
 }
+
+#title {
+    font.title : 50px;
+}
 h2 {
   font-family: 'Ubuntu', sans-serif;
   color: pink;
